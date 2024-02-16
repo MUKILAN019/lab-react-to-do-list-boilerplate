@@ -1,0 +1,9 @@
+.textbox{
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.container{
+  display: flex;
+  gap:30px;
+}
